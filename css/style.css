@@ -135,7 +135,7 @@ nav {
   display: inline-block;
   width: 24px;
   height: 24px;
-  background-image: url("/assets/icons/list.svg");
+  background-image: url("../assets/icons/list.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -150,7 +150,7 @@ nav {
 }
 
 .menu-button.meun::before {
-  background-image: url("/assets/icons/arrow-bar-right.svg");
+  background-image: url("../assets/icons/arrow-bar-right.svg");
   transform: scale(1);
 }
 
@@ -394,7 +394,7 @@ section > .section-title {
 }
 
 #Video-Editing::before {
-  content: url("/assets/icons/film.svg");
+  content: url("../assets/icons/film.svg");
   vertical-align: middle;
   margin-right: 8px;
   margin-bottom: 5px;
@@ -405,7 +405,7 @@ section > .section-title {
 }
 
 #Cinematography::before {
-  content: url("/assets/icons/camera-reels-fill.svg");
+  content: url("../assets/icons/camera-reels-fill.svg");
   vertical-align: middle;
   margin-right: 8px;
   margin-bottom: 5px;
@@ -416,7 +416,7 @@ section > .section-title {
 }
 
 #Visual-Production::before {
-  content: url("/assets/icons/image.svg");
+  content: url("../assets/icons/image.svg");
   vertical-align: middle;
   margin-right: 8px;
   margin-bottom: 5px;
@@ -427,7 +427,7 @@ section > .section-title {
 }
 
 #Event-Planning::before {
-  content: url("/assets/icons/calendar.svg");
+  content: url("../assets/icons/calendar.svg");
   vertical-align: middle;
   margin-right: 8px;
   margin-bottom: 5px;
@@ -1070,7 +1070,7 @@ hr {
 }
 
 .contact-item .label.email::before {
-  content: url("/assets/icons/envelope.svg");
+  content: url("../assets/icons/envelope.svg");
   vertical-align: middle;
   margin-right: 8px;
 
@@ -1081,7 +1081,7 @@ hr {
 }
 
 .contact-item:hover .label.email::before {
-  content: url("/assets/icons/envelope.svg");
+  content: url("../assets/icons/envelope.svg");
   vertical-align: middle;
   margin-right: 8px;
 
@@ -1091,7 +1091,7 @@ hr {
 }
 
 .contact-item .label.ig::before {
-  content: url("/assets/icons/instagram.svg");
+  content: url("../assets/icons/instagram.svg");
   vertical-align: middle;
   margin-right: 8px;
 
@@ -1102,7 +1102,7 @@ hr {
 }
 
 .contact-item:hover .label.ig::before {
-  content: url("/assets/icons/instagram.svg");
+  content: url("../assets/icons/instagram.svg");
   vertical-align: middle;
   margin-right: 8px;
 
